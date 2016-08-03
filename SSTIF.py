@@ -47,7 +47,7 @@ class SSTIF_Fuzz(threading.Thread):
         self.queue = queue
         self._version = 1.0
         self.author = "CF_HB"
-        self.my_cloudeye = "ddaedf.dnslog.info"
+        self.my_cloudeye = "xxxx.dnslog.info"
         self.CheckKey_list = ['646744516', '/sbin/nologin', '/bin/bash']
         self.fuzzing_payloads_list = []
         self.fuzzing_finished_url = []
