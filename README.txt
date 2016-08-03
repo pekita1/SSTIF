@@ -1,6 +1,4 @@
-# SSTIF
-   一个Fuzzing服务器端模板注入漏洞的半自动化工具
-
+# 一个Fuzzing服务器端模板注入漏洞的半自动化工具
 取名: Server Side Template Injection Tool
 简称: SSTIF
 参考:
